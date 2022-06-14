@@ -1,0 +1,10 @@
+Test
+
+git branch // view branches
+git checkout // switch to branch
+git checkout - b <name of branch> // create branch and switch to it
+
+Test
+
+writing this in test dom branch
+
